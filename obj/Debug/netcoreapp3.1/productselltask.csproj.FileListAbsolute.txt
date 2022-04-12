@@ -1,0 +1,14 @@
+C:\Users\Murad\source\repos\productselltask\bin\Debug\netcoreapp3.1\productselltask.exe
+C:\Users\Murad\source\repos\productselltask\bin\Debug\netcoreapp3.1\productselltask.deps.json
+C:\Users\Murad\source\repos\productselltask\bin\Debug\netcoreapp3.1\productselltask.runtimeconfig.json
+C:\Users\Murad\source\repos\productselltask\bin\Debug\netcoreapp3.1\productselltask.runtimeconfig.dev.json
+C:\Users\Murad\source\repos\productselltask\bin\Debug\netcoreapp3.1\productselltask.dll
+C:\Users\Murad\source\repos\productselltask\bin\Debug\netcoreapp3.1\productselltask.pdb
+C:\Users\Murad\source\repos\productselltask\obj\Debug\netcoreapp3.1\productselltask.csproj.AssemblyReference.cache
+C:\Users\Murad\source\repos\productselltask\obj\Debug\netcoreapp3.1\productselltask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Murad\source\repos\productselltask\obj\Debug\netcoreapp3.1\productselltask.AssemblyInfoInputs.cache
+C:\Users\Murad\source\repos\productselltask\obj\Debug\netcoreapp3.1\productselltask.AssemblyInfo.cs
+C:\Users\Murad\source\repos\productselltask\obj\Debug\netcoreapp3.1\productselltask.csproj.CoreCompileInputs.cache
+C:\Users\Murad\source\repos\productselltask\obj\Debug\netcoreapp3.1\productselltask.dll
+C:\Users\Murad\source\repos\productselltask\obj\Debug\netcoreapp3.1\productselltask.pdb
+C:\Users\Murad\source\repos\productselltask\obj\Debug\netcoreapp3.1\productselltask.genruntimeconfig.cache
