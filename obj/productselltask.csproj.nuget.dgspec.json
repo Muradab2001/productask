@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Murad\\Desktop\\productselltask\\productselltask.csproj": {}
+    "C:\\Users\\Murad\\source\\repos\\productselltask\\productselltask.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Murad\\Desktop\\productselltask\\productselltask.csproj": {
+    "C:\\Users\\Murad\\source\\repos\\productselltask\\productselltask.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Murad\\Desktop\\productselltask\\productselltask.csproj",
+        "projectUniqueName": "C:\\Users\\Murad\\source\\repos\\productselltask\\productselltask.csproj",
         "projectName": "productselltask",
-        "projectPath": "C:\\Users\\Murad\\Desktop\\productselltask\\productselltask.csproj",
+        "projectPath": "C:\\Users\\Murad\\source\\repos\\productselltask\\productselltask.csproj",
         "packagesPath": "C:\\Users\\Murad\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Murad\\Desktop\\productselltask\\obj\\",
+        "outputPath": "C:\\Users\\Murad\\source\\repos\\productselltask\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
